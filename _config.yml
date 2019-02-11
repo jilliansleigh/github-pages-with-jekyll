@@ -2,16 +2,3 @@
 title: "Epicness"
 date: 2019-02-10
 ---
-author: Jillian
-email: jslei2@ocdsb.ca
-description: > # this means to ignore newlines until "baseurl:"
- Awesome description
-
-# social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
-
-show_excerpts: true # set to false to remove excerpts on the homepage
-
-theme: minima
----
